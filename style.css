@@ -1,0 +1,31 @@
+body{
+    background-color: #DBF9FC;
+}
+
+h1{
+    color : blue ;
+    font-size : 20px;
+    text-align: center  ;
+}
+nav{
+   color: red;
+   font-size: 20px;
+   text-align: left; 
+}
+
+a{
+    color: rgb(50, 40, 199);
+    font-size: 15px;
+}
+
+div{
+    text-align: center;
+}
+
+img{
+    border-radius: 10px;
+}
+
+section{
+    color: blueviolet;
+}
